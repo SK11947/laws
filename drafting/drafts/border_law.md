@@ -22,7 +22,7 @@ Physical markers may be placed along the borders of Liberland to provide clear d
 ## Section 2: Border Crossing
 
 ### Article 5: Crossing of the State Border at a Border Crossing Point
-1. All persons, vehicles, and goods entering or exiting the territory of Liberland shall do so through designated border crossing points, known as "points of entry". Any entry of persons or goods can occur outside of points of entry is referred to as "unlawful entry" and subject to immediate law enforcement action per Acticle 6.
+1. All persons, vehicles, and goods entering or exiting the territory of Liberland shall do so through designated border crossing points, known as "points of entry". Any entry of persons or goods that can occur outside of points of entry is referred to as "unlawful entry" and is subject to immediate law enforcement action per Article 6.
 2. The government of Liberland shall establish and maintain official points of entry to facilitate the legal and orderly movement of people, vehicles, and goods across its borders.
 
 ### Article 6: Crossing of the State Border Outside a Border Crossing Point
@@ -111,8 +111,8 @@ The Immigration and Border Service (IBIS) shall be an agency within the Ministry
  
 a. Border Officers, responsible for the protection of the borders; and  
     
-b. Immigration Officers, responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
-3. All Border Officers are immigration officers and should possess a designation that is appropriate for their duties. Not all immigration officers are border officers, until they are approved for transfer to perform border control duties at a Point of Entry.]
+b. Immigration Officers are responsible for determining eligibility for entry and residency in Liberland. Immigration Officers shall not have the authority to revoke a visa or immigration status, a power reserved for a Judge.
+c. All Border Officers are immigration officers and should possess a designation that is appropriate for their duties. Not all immigration officers are border officers unless they are approved for transfer to perform border control duties at a Point of Entry.
 
 ### Article 22: Border Officers
 Border Officers shall be responsible for enforcing border regulations and ensuring border security. They shall be authorized to act as Security Agents in relation to border-related events, situations, and offenses, including crimes.
@@ -255,15 +255,16 @@ The standardized format of each type of visa shall be determined by Regulation i
 ### Article 38: Expiration of Residency Visa
 Where a Residency Visa regularly expires, the process shall be similar to the expiration of a Temporary Visa, but the former Visa holder shall have 1/3 of an Election term counted from the day of expiration to exit Liberland voluntarily.
 
-### Article 39: Prolongation and New Application  
+### Article 39: Interim Visa  
 1) Where:  
 
-   a) the Visa holder has Applied for a prolongation of a Visa or for a new Visa; and  
+   a) a visa holder has applied for a new visa; and  
    
-   b) this new Application was made timely, in general at least a month before the expected expiration date of the Applicant's present Visa;  
-the expiration shall be postponed until such a time as the process regarding that Application finishes.   
+   b) this new application was made timely manner, at least one month before the expected expiration date of the applicant's present visa;  
 
-2) Where the Application wasn't made timely, the Visa holder shall exit Liberland as during a regular Visa Expiration; when the new Visa Application is successful, the Residency holder shall be free to return. The costs incurred by the exit and the return shall be borne by the Visa holder.  
+the expiration shall be postponed until such a time as the process regarding the new application is completed.   
+
+2) Where the Application was not made in a timely manner, the Visa holder shall exit Liberland as during a regular visa expiration; when the new visa application is successful, the visa holder shall be free to return. The costs incurred by the exit and the return shall be borne by the visa holder.  
 
 ## Section 9: Appeals Process
 ### Article 40: Right to Appeal
@@ -285,6 +286,10 @@ the expiration shall be postponed until such a time as the process regarding tha
 1) Any person who is outside their country of nationality or habitual residence and is unable or unwilling to return due to a well-founded fear of being persecuted for reasons of race, religion, nationality, membership of a particular social group, or political opinion, as defined in the 1951 Refugee Convention, shall have the right to seek asylum in Liberland.
 
 2) The right to seek asylum shall also apply to stateless persons under the same conditions.
+
+3) Unless a waiver is issued by an appropriately designated officer, a person is automatically ineligible to claim asylum status if
+   a) there is evidence that they were present in a safe country other than their home country, from which the danger persists, before arriving in Liberland, and
+   b) the person was eligible for asylum in that country.
 
 ### Article 43: Asylum Application
 1) Asylum applications shall be submitted in writing to the designated authority within IBIS, as determined by the Ministry of Interior.
