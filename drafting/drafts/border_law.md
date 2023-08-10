@@ -349,8 +349,8 @@ c) A Third-Class Immigration Officer may not waive any visa or entry requirement
 ## Section 1: Visa for Non-Citizens
 
 ### Article 36: Visa
-1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a citizenship status.  
-2) The holder of a Visa shall be allowed to work and perform other gainful activity under the Law, henceforth "gainful employment".  
+1) A visa shall be a document that confers to the visa holder the privilege of crossing the border of Liberland and staying on its soil for a certain time and with certain limitations when compared to a person with citizenship status.  
+2) The holder of a visa shall be allowed to work and perform other gainful activity under the Law, henceforth "gainful employment".  
 3) Visa holders shall not have the political rights and responsibilities accorded to a Liberlandian citizen, such as the right to carry a Liberland passport, to run for public office, or to vote in elections and referendums, bear arms, among others.  
 
 ### Article 37: Temporary Visa
